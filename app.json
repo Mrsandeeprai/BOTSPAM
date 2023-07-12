@@ -1,7 +1,7 @@
 {
-    "name": "LegendSpam",
-    "description": "Spamming Bot Made By LegendBoy @LegendBoy_OP",
-    "logo": "https://te.legra.ph/file/315ec5fe03f2a612139b3.jpg",
+    "name": "nobitaLegendSpam",
+    "description": "Spamming Bot Made By noobnobita @Mr_selfish_person",
+    "logo": "https://te.legra.ph/file/38485f2caa45a65426aa4.png",
     "keywords": [
         "telegram",
         "pyrogram",
@@ -9,9 +9,12 @@
         "legendboy",
         "Botspam"
     ],
-    "repository": "https://github.com/LEGEND-AI/BOTSPAM",
-    "website": "https://t.me/LegendBot_Owner",
-    "success_url": "https://t.me/LegendBot_Owner",
+    "repository": "https://github.com/Mrsandeeprai/BOTSPAM",
+    
+    
+  
+
+     
     "env": {       
         "ENV": {
             "description": "dont edit this",
